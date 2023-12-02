@@ -16,7 +16,7 @@ https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="PECINAN" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="PECINAN" tvg-logo="https://i.imgur.com/SORrhtE.png" group-title="Anak",CCTV-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="PECINAN" tvg-logo="https://i.imgur.com/SORrhtE.png" group-title="PECINAN",CCTV-14 少儿
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
 
 #EXTINF:0 group-title="PECINAN" tvg-logo="https://i.imgur.com/N3WRCXt.png",SCTV5 - SCJ
